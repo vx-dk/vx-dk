@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Us  
 
 We are the developers focusing on creating **modern Android apps, clean UI systems, and powerful backend-driven experiences**.  
 
