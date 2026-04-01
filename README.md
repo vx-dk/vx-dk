@@ -3,6 +3,8 @@
 <!--
 **vx-dk/vx-dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://lh3.googleusercontent.com/a/ACg8ocKg_gJwCL48Fba0r79ZCa8iyOq9zlYq-ia8ornOF1Pl-bVUzSw=s360-c-no
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
