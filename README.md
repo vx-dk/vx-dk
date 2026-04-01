@@ -1,7 +1,7 @@
 # 🚀 DARK X VENOM
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocKg_gJwCL48Fba0r79ZCa8iyOq9zlYq-ia8ornOF1Pl-bVUzSw=s360-c-no" width="180" alt="logo"/>
+  <img src="https://github.com/vx-dk/vx-dk/blob/main/unnamed.gif?raw=true" width="200" alt="logo"/>
 </p>
 
 <h3 align="center">⚡ Building Powerful Apps • Designing Animated Brand Systems ⚡</h3>
