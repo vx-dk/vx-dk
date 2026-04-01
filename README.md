@@ -10,7 +10,7 @@
 
 ## 🧠 About Me  
 
-We are the developers focused on creating **modern Android apps, clean UI systems, and powerful backend-driven experiences**.  
+We are the developers focusing on creating **modern Android apps, clean UI systems, and powerful backend-driven experiences**.  
 
 - 📱 Building **high-performance mobile apps**
 - 🎨 Designing **minimal + futuristic UI**
